@@ -1,0 +1,887 @@
+{
+  "description": "Curated App Store apps for design mockups. Mainland-China focused, plus a few international apps available on the CN store. Edit freely, or point --pool at your own file.",
+  "apps": [
+    {
+      "id": "414478124",
+      "name": "微信",
+      "desc": "随时联系，分享生活",
+      "category": "social",
+      "country": "cn"
+    },
+    {
+      "id": "444934666",
+      "name": "QQ",
+      "desc": "聊天娱乐，精彩不停",
+      "category": "social",
+      "country": "cn"
+    },
+    {
+      "id": "350962117",
+      "name": "微博",
+      "desc": "随时随地，发现新鲜事",
+      "category": "social",
+      "country": "cn"
+    },
+    {
+      "id": "741292507",
+      "name": "小红书",
+      "desc": "发现灵感，记录生活",
+      "category": "social",
+      "country": "cn"
+    },
+    {
+      "id": "1142110895",
+      "name": "抖音",
+      "desc": "看短视频，发现精彩",
+      "category": "social",
+      "country": "cn"
+    },
+    {
+      "id": "440948110",
+      "name": "快手",
+      "desc": "记录生活，分享快乐",
+      "category": "social",
+      "country": "cn"
+    },
+    {
+      "id": "432274380",
+      "name": "知乎",
+      "desc": "专业解答，认真分享",
+      "category": "social",
+      "country": "cn"
+    },
+    {
+      "id": "907002334",
+      "name": "豆瓣",
+      "desc": "书影音评，兴趣小组",
+      "category": "social",
+      "country": "cn"
+    },
+    {
+      "id": "1032287195",
+      "name": "Soul",
+      "desc": "兴趣社交，遇见同好",
+      "category": "social",
+      "country": "cn"
+    },
+    {
+      "id": "861891048",
+      "name": "探探",
+      "desc": "左滑右滑，遇见心动",
+      "category": "social",
+      "country": "cn"
+    },
+    {
+      "id": "448165862",
+      "name": "陌陌",
+      "desc": "附近的人，实时聊天",
+      "category": "social",
+      "country": "cn"
+    },
+    {
+      "id": "1451025748",
+      "name": "Blued",
+      "desc": "多元社交，安心交友",
+      "category": "social",
+      "country": "cn"
+    },
+    {
+      "id": "590338362",
+      "name": "网易云音乐",
+      "desc": "音乐社区，听懂心情",
+      "category": "music",
+      "country": "cn"
+    },
+    {
+      "id": "414603431",
+      "name": "QQ音乐",
+      "desc": "海量曲库，随心畅听",
+      "category": "music",
+      "country": "cn"
+    },
+    {
+      "id": "472208016",
+      "name": "酷狗音乐",
+      "desc": "听歌识曲，海量曲库",
+      "category": "music",
+      "country": "cn"
+    },
+    {
+      "id": "588673713",
+      "name": "酷我音乐",
+      "desc": "高音质乐库，随身听",
+      "category": "music",
+      "country": "cn"
+    },
+    {
+      "id": "1605585211",
+      "name": "汽水音乐",
+      "desc": "个性推荐，一刷就停",
+      "category": "music",
+      "country": "cn"
+    },
+    {
+      "id": "725215315",
+      "name": "咪咕音乐",
+      "desc": "正版曲库，演唱会直播",
+      "category": "music",
+      "country": "cn"
+    },
+    {
+      "id": "1108187390",
+      "name": "Apple Music",
+      "desc": "无损音质，全曲库畅听",
+      "category": "music",
+      "country": "cn"
+    },
+    {
+      "id": "736536022",
+      "name": "哔哩哔哩",
+      "desc": "弹幕视频，兴趣社区",
+      "category": "video",
+      "country": "cn"
+    },
+    {
+      "id": "458318329",
+      "name": "腾讯视频",
+      "desc": "热播剧综，高清独播",
+      "category": "video",
+      "country": "cn"
+    },
+    {
+      "id": "393765873",
+      "name": "爱奇艺",
+      "desc": "好剧连台，会员畅看",
+      "category": "video",
+      "country": "cn"
+    },
+    {
+      "id": "336141475",
+      "name": "优酷",
+      "desc": "热剧综艺，一网打尽",
+      "category": "video",
+      "country": "cn"
+    },
+    {
+      "id": "629774477",
+      "name": "芒果TV",
+      "desc": "青春综艺，独播大剧",
+      "category": "video",
+      "country": "cn"
+    },
+    {
+      "id": "1134496215",
+      "name": "西瓜视频",
+      "desc": "中长视频，看个不停",
+      "category": "video",
+      "country": "cn"
+    },
+    {
+      "id": "1479814602",
+      "name": "央视频",
+      "desc": "央视直播，权威资讯",
+      "category": "video",
+      "country": "cn"
+    },
+    {
+      "id": "387682726",
+      "name": "淘宝",
+      "desc": "发现好物，轻松选购",
+      "category": "shopping",
+      "country": "cn"
+    },
+    {
+      "id": "414245413",
+      "name": "京东",
+      "desc": "多快好省，品质购物",
+      "category": "shopping",
+      "country": "cn"
+    },
+    {
+      "id": "1044283059",
+      "name": "拼多多",
+      "desc": "拼着买，更划算",
+      "category": "shopping",
+      "country": "cn"
+    },
+    {
+      "id": "518966501",
+      "name": "天猫",
+      "desc": "品牌旗舰，正品保障",
+      "category": "shopping",
+      "country": "cn"
+    },
+    {
+      "id": "417200582",
+      "name": "唯品会",
+      "desc": "品牌特卖，正品折扣",
+      "category": "shopping",
+      "country": "cn"
+    },
+    {
+      "id": "424598114",
+      "name": "苏宁易购",
+      "desc": "家电数码，送货安装",
+      "category": "shopping",
+      "country": "cn"
+    },
+    {
+      "id": "1012871328",
+      "name": "得物",
+      "desc": "潮流单品，先鉴别后发货",
+      "category": "shopping",
+      "country": "cn"
+    },
+    {
+      "id": "510909506",
+      "name": "闲鱼",
+      "desc": "闲置转让，二手好物",
+      "category": "shopping",
+      "country": "cn"
+    },
+    {
+      "id": "818237113",
+      "name": "山姆",
+      "desc": "会员仓储，品质好物",
+      "category": "shopping",
+      "country": "cn"
+    },
+    {
+      "id": "954995415",
+      "name": "京东到家",
+      "desc": "生鲜日用，即时送达",
+      "category": "shopping",
+      "country": "cn"
+    },
+    {
+      "id": "1063183999",
+      "name": "盒马",
+      "desc": "生鲜直送，最快30分钟",
+      "category": "shopping",
+      "country": "cn"
+    },
+    {
+      "id": "768082524",
+      "name": "叮咚买菜",
+      "desc": "新鲜蔬菜，一键到家",
+      "category": "shopping",
+      "country": "cn"
+    },
+    {
+      "id": "461703208",
+      "name": "高德地图",
+      "desc": "精准导航，实时路况",
+      "category": "travel",
+      "country": "cn"
+    },
+    {
+      "id": "452186370",
+      "name": "百度地图",
+      "desc": "智能导航，出行无忧",
+      "category": "travel",
+      "country": "cn"
+    },
+    {
+      "id": "481623196",
+      "name": "腾讯地图",
+      "desc": "路线规划，公交换乘",
+      "category": "travel",
+      "country": "cn"
+    },
+    {
+      "id": "554499054",
+      "name": "滴滴出行",
+      "desc": "一键叫车，安全出行",
+      "category": "travel",
+      "country": "cn"
+    },
+    {
+      "id": "1165227346",
+      "name": "哈啰",
+      "desc": "扫码骑行，便捷通勤",
+      "category": "travel",
+      "country": "cn"
+    },
+    {
+      "id": "379395415",
+      "name": "携程",
+      "desc": "机票酒店，一站式预订",
+      "category": "travel",
+      "country": "cn"
+    },
+    {
+      "id": "395096736",
+      "name": "去哪儿",
+      "desc": "特价机票，低价酒店",
+      "category": "travel",
+      "country": "cn"
+    },
+    {
+      "id": "453691481",
+      "name": "飞猪",
+      "desc": "出行特惠，会员权益",
+      "category": "travel",
+      "country": "cn"
+    },
+    {
+      "id": "564818797",
+      "name": "12306",
+      "desc": "火车票查询，官方购票",
+      "category": "travel",
+      "country": "cn"
+    },
+    {
+      "id": "1034208598",
+      "name": "曹操出行",
+      "desc": "绿色出行，专业司机",
+      "category": "travel",
+      "country": "cn"
+    },
+    {
+      "id": "1460554848",
+      "name": "T3出行",
+      "desc": "合规网约车，安全可靠",
+      "category": "travel",
+      "country": "cn"
+    },
+    {
+      "id": "951610982",
+      "name": "菜鸟",
+      "desc": "快递查询，驿站取件",
+      "category": "travel",
+      "country": "cn"
+    },
+    {
+      "id": "1259763050",
+      "name": "丰巢",
+      "desc": "智能柜存取，随时寄取",
+      "category": "travel",
+      "country": "cn"
+    },
+    {
+      "id": "333206289",
+      "name": "支付宝",
+      "desc": "支付便捷，生活省心",
+      "category": "finance",
+      "country": "cn"
+    },
+    {
+      "id": "600273928",
+      "name": "云闪付",
+      "desc": "一挥即付，优惠不停",
+      "category": "finance",
+      "country": "cn"
+    },
+    {
+      "id": "392899425",
+      "name": "招商银行",
+      "desc": "掌上银行，理财随行",
+      "category": "finance",
+      "country": "cn"
+    },
+    {
+      "id": "423514795",
+      "name": "工商银行",
+      "desc": "掌上金融，安全便捷",
+      "category": "finance",
+      "country": "cn"
+    },
+    {
+      "id": "391965015",
+      "name": "建设银行",
+      "desc": "账户查询，转账缴费",
+      "category": "finance",
+      "country": "cn"
+    },
+    {
+      "id": "399608199",
+      "name": "中国银行",
+      "desc": "跨境金融，贴心服务",
+      "category": "finance",
+      "country": "cn"
+    },
+    {
+      "id": "1085016815",
+      "name": "平安银行",
+      "desc": "智能理财，一键办理",
+      "category": "finance",
+      "country": "cn"
+    },
+    {
+      "id": "515651240",
+      "name": "农业银行",
+      "desc": "便民服务，惠农金融",
+      "category": "finance",
+      "country": "cn"
+    },
+    {
+      "id": "337876534",
+      "name": "交通银行",
+      "desc": "快捷转账，安心理财",
+      "category": "finance",
+      "country": "cn"
+    },
+    {
+      "id": "895682747",
+      "name": "京东金融",
+      "desc": "消费金融，灵活借贷",
+      "category": "finance",
+      "country": "cn"
+    },
+    {
+      "id": "303191318",
+      "name": "同花顺",
+      "desc": "实时行情，智能选股",
+      "category": "finance",
+      "country": "cn"
+    },
+    {
+      "id": "423525686",
+      "name": "东方财富",
+      "desc": "行情资讯，基金交易",
+      "category": "finance",
+      "country": "cn"
+    },
+    {
+      "id": "930368978",
+      "name": "钉钉",
+      "desc": "高效办公，组织协同",
+      "category": "office",
+      "country": "cn"
+    },
+    {
+      "id": "1401729613",
+      "name": "飞书",
+      "desc": "一站式协作，高效办公",
+      "category": "office",
+      "country": "cn"
+    },
+    {
+      "id": "599852710",
+      "name": "WPS Office",
+      "desc": "文档表格，多端同步",
+      "category": "office",
+      "country": "cn"
+    },
+    {
+      "id": "1370780836",
+      "name": "腾讯文档",
+      "desc": "在线文档，协作编辑",
+      "category": "office",
+      "country": "cn"
+    },
+    {
+      "id": "1013727678",
+      "name": "石墨文档",
+      "desc": "在线协作，实时同步",
+      "category": "office",
+      "country": "cn"
+    },
+    {
+      "id": "450748070",
+      "name": "有道云笔记",
+      "desc": "笔记整理，云端同步",
+      "category": "office",
+      "country": "cn"
+    },
+    {
+      "id": "547166701",
+      "name": "百度网盘",
+      "desc": "文件备份，超大空间",
+      "category": "office",
+      "country": "cn"
+    },
+    {
+      "id": "1494661473",
+      "name": "阿里云盘",
+      "desc": "高速传输，安全存储",
+      "category": "office",
+      "country": "cn"
+    },
+    {
+      "id": "1484048379",
+      "name": "腾讯会议",
+      "desc": "高清会议，一键入会",
+      "category": "office",
+      "country": "cn"
+    },
+    {
+      "id": "586447913",
+      "name": "Word",
+      "desc": "文档撰写，排版专业",
+      "category": "office",
+      "country": "cn"
+    },
+    {
+      "id": "586683407",
+      "name": "Excel",
+      "desc": "数据处理，图表分析",
+      "category": "office",
+      "country": "cn"
+    },
+    {
+      "id": "586449534",
+      "name": "PowerPoint",
+      "desc": "幻灯片制作，演示汇报",
+      "category": "office",
+      "country": "cn"
+    },
+    {
+      "id": "469337564",
+      "name": "Acrobat",
+      "desc": "PDF 阅读，批注签名",
+      "category": "office",
+      "country": "cn"
+    },
+    {
+      "id": "327630330",
+      "name": "Dropbox",
+      "desc": "文件云端，跨端同步",
+      "category": "office",
+      "country": "cn"
+    },
+    {
+      "id": "1232780281",
+      "name": "Notion",
+      "desc": "笔记文档，团队知识库",
+      "category": "office",
+      "country": "cn"
+    },
+    {
+      "id": "1607562761",
+      "name": "Notion日历",
+      "desc": "日程安排，任务规划",
+      "category": "office",
+      "country": "cn"
+    },
+    {
+      "id": "546505307",
+      "name": "Zoom",
+      "desc": "视频会议，远程协作",
+      "category": "office",
+      "country": "cn"
+    },
+    {
+      "id": "1113153706",
+      "name": "Teams",
+      "desc": "团队协作，会议通话",
+      "category": "office",
+      "country": "cn"
+    },
+    {
+      "id": "1160172628",
+      "name": "夸克",
+      "desc": "极速搜索，清爽无广告",
+      "category": "tools",
+      "country": "cn"
+    },
+    {
+      "id": "388627783",
+      "name": "扫描全能王",
+      "desc": "扫描识别，一键转文字",
+      "category": "tools",
+      "country": "cn"
+    },
+    {
+      "id": "382201985",
+      "name": "百度",
+      "desc": "搜索问答，智能助手",
+      "category": "tools",
+      "country": "cn"
+    },
+    {
+      "id": "917670924",
+      "name": "搜狗输入法",
+      "desc": "拼音输入，表情丰富",
+      "category": "tools",
+      "country": "cn"
+    },
+    {
+      "id": "1582446193",
+      "name": "讯飞输入法",
+      "desc": "语音输入，快人一步",
+      "category": "tools",
+      "country": "cn"
+    },
+    {
+      "id": "434209233",
+      "name": "墨迹天气",
+      "desc": "精准预报，出行无忧",
+      "category": "tools",
+      "country": "cn"
+    },
+    {
+      "id": "416048305",
+      "name": "美图秀秀",
+      "desc": "一键美颜，修图神器",
+      "category": "tools",
+      "country": "cn"
+    },
+    {
+      "id": "1458072671",
+      "name": "剪映",
+      "desc": "视频剪辑，模板套用",
+      "category": "tools",
+      "country": "cn"
+    },
+    {
+      "id": "1500526240",
+      "name": "醒图",
+      "desc": "人像精修，滤镜调色",
+      "category": "tools",
+      "country": "cn"
+    },
+    {
+      "id": "1288723196",
+      "name": "Edge",
+      "desc": "极速浏览，安全省心",
+      "category": "tools",
+      "country": "cn"
+    },
+    {
+      "id": "535886823",
+      "name": "Chrome",
+      "desc": "快速浏览，扩展丰富",
+      "category": "tools",
+      "country": "cn"
+    },
+    {
+      "id": "423084029",
+      "name": "美团",
+      "desc": "吃喝玩乐，一站安排",
+      "category": "life",
+      "country": "cn"
+    },
+    {
+      "id": "351091731",
+      "name": "大众点评",
+      "desc": "本地生活，吃喝指南",
+      "category": "life",
+      "country": "cn"
+    },
+    {
+      "id": "504274740",
+      "name": "猫眼",
+      "desc": "电影购票，选座观影",
+      "category": "life",
+      "country": "cn"
+    },
+    {
+      "id": "1296749505",
+      "name": "瑞幸咖啡",
+      "desc": "现磨咖啡，线上下单",
+      "category": "life",
+      "country": "cn"
+    },
+    {
+      "id": "499819758",
+      "name": "星巴克",
+      "desc": "咖啡外送，积分兑换",
+      "category": "life",
+      "country": "cn"
+    },
+    {
+      "id": "1054598922",
+      "name": "麦当劳",
+      "desc": "优惠套餐，到店点餐",
+      "category": "life",
+      "country": "cn"
+    },
+    {
+      "id": "587238847",
+      "name": "肯德基",
+      "desc": "疯狂星期四，在线点餐",
+      "category": "life",
+      "country": "cn"
+    },
+    {
+      "id": "1412534170",
+      "name": "喜茶",
+      "desc": "真茶真奶，排队点单",
+      "category": "life",
+      "country": "cn"
+    },
+    {
+      "id": "1504835619",
+      "name": "蜜雪冰城",
+      "desc": "平价饮品，随时来一杯",
+      "category": "life",
+      "country": "cn"
+    },
+    {
+      "id": "989673964",
+      "name": "王者荣耀",
+      "desc": "5V5 对战，开黑上分",
+      "category": "game",
+      "country": "cn"
+    },
+    {
+      "id": "1321803705",
+      "name": "和平精英",
+      "desc": "战术竞技，百人对局",
+      "category": "game",
+      "country": "cn"
+    },
+    {
+      "id": "1467190251",
+      "name": "原神",
+      "desc": "开放世界，元素冒险",
+      "category": "game",
+      "country": "cn"
+    },
+    {
+      "id": "1523037824",
+      "name": "崩坏：星穹铁道",
+      "desc": "银河冒险，策略回合",
+      "category": "game",
+      "country": "cn"
+    },
+    {
+      "id": "1330863325",
+      "name": "第五人格",
+      "desc": "非对称竞技，悬疑逃生",
+      "category": "game",
+      "country": "cn"
+    },
+    {
+      "id": "895670960",
+      "name": "阴阳师",
+      "desc": "式神收集，和风卡牌",
+      "category": "game",
+      "country": "cn"
+    },
+    {
+      "id": "1544884479",
+      "name": "蛋仔派对",
+      "desc": "闯关竞速，多人派对",
+      "category": "game",
+      "country": "cn"
+    },
+    {
+      "id": "1478101301",
+      "name": "金铲铲之战",
+      "desc": "英雄集结，策略对决",
+      "category": "game",
+      "country": "cn"
+    },
+    {
+      "id": "791532221",
+      "name": "开心消消乐",
+      "desc": "三消闯关，休闲解压",
+      "category": "game",
+      "country": "cn"
+    },
+    {
+      "id": "1243986797",
+      "name": "我的世界",
+      "desc": "方块世界，自由建造",
+      "category": "game",
+      "country": "cn"
+    },
+    {
+      "id": "1170455562",
+      "name": "迷你世界",
+      "desc": "沙盒创造，联机冒险",
+      "category": "game",
+      "country": "cn"
+    },
+    {
+      "id": "1632344522",
+      "name": "元梦之星",
+      "desc": "派对闯关，多人竞技",
+      "category": "game",
+      "country": "cn"
+    },
+    {
+      "id": "6459478672",
+      "name": "豆包",
+      "desc": "智能对话，随问随答",
+      "category": "ai",
+      "country": "cn"
+    },
+    {
+      "id": "6474233312",
+      "name": "Kimi",
+      "desc": "长文阅读，智能问答",
+      "category": "ai",
+      "country": "cn"
+    },
+    {
+      "id": "6466733523",
+      "name": "千问",
+      "desc": "全能问答，写作创作",
+      "category": "ai",
+      "country": "cn"
+    },
+    {
+      "id": "6480446430",
+      "name": "腾讯元宝",
+      "desc": "AI 助手，写作创作",
+      "category": "ai",
+      "country": "cn"
+    },
+    {
+      "id": "6737597349",
+      "name": "DeepSeek",
+      "desc": "深度推理，编程问答",
+      "category": "ai",
+      "country": "cn"
+    },
+    {
+      "id": "6450893458",
+      "name": "智谱清言",
+      "desc": "中文对话，知识问答",
+      "category": "ai",
+      "country": "cn"
+    },
+    {
+      "id": "6449919551",
+      "name": "讯飞星火",
+      "desc": "语音交互，智能问答",
+      "category": "ai",
+      "country": "cn"
+    },
+    {
+      "id": "6503676563",
+      "name": "即梦AI",
+      "desc": "AI 绘画，视频生成",
+      "category": "ai",
+      "country": "cn"
+    },
+    {
+      "id": "6446882473",
+      "name": "文心",
+      "desc": "智能写作，内容创作",
+      "category": "ai",
+      "country": "cn"
+    },
+    {
+      "id": "6447616432",
+      "name": "天工",
+      "desc": "AI 搜索，智能生成",
+      "category": "ai",
+      "country": "cn"
+    },
+    {
+      "id": "480079300",
+      "name": "58同城",
+      "desc": "租房招聘，本地服务",
+      "category": "other",
+      "country": "cn"
+    },
+    {
+      "id": "1347663353",
+      "name": "贝壳找房",
+      "desc": "真实房源，找房省心",
+      "category": "other",
+      "country": "cn"
+    },
+    {
+      "id": "415606289",
+      "name": "安居客",
+      "desc": "二手房源，房价查询",
+      "category": "other",
+      "country": "cn"
+    }
+  ]
+}
