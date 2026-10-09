@@ -16,7 +16,7 @@
 
 把下面这段话发给你的智能体就行：
 
-    请从 https://github.com/TAI-IPX/skills-store-fetch-icon 安装技能，技能在仓库里的路径是 skills/skills-store-fetch-icon
+    请从 https://github.com/TAI-IPX/skills-store-fetch-icon 安装技能
 
 智能体会自己把技能装到你的技能目录，下一轮对话它就会出现在可用技能列表里，之后你直接说需求就能用。
 
