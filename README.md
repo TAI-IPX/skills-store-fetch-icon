@@ -14,11 +14,11 @@
 
 ## 安装
 
-用 skill-installer 从本仓库安装：
+把下面这段话发给你的 Codex 智能体就行：
 
-    python3 $CODEX_HOME/skills/.system/skill-installer/scripts/install-skill-from-github.py --repo TAI-IPX/skills-store-fetch-icon --path skills/skills-store-fetch-icon
+    请从 https://github.com/TAI-IPX/skills-store-fetch-icon 安装技能，技能在仓库里的路径是 skills/skills-store-fetch-icon
 
-也可以直接把 skills/skills-store-fetch-icon 整个目录拷进 $CODEX_HOME/skills/，目录名与技能名一致。安装后技能会在下一轮对话出现在可用列表里。
+智能体会自己把技能装到 $CODEX_HOME/skills/，下一轮对话它就会出现在可用技能列表里，之后你直接说需求就能用。
 
 ## 用法
 
