@@ -1,5 +1,5 @@
 ---
-name: app-icon-filler
+name: skills-store-fetch-icon
 description: >-
   Fill design mockups with real, correctly named App Store app icons. Use when
   someone needs a realistic app icon wall, an integration or marketplace grid,
@@ -9,7 +9,7 @@ description: >-
   or hand-sourced.
 ---
 
-# App Icon Filler（真实应用图标填充）
+# skills-store-fetch-icon（真实应用图标填充）
 
 从 Apple 官方接口按真实应用取图标，用来给设计稿填位。**图标是真的，名字是真的，一句话文案按应用定位拟真，应用是随机抽的。**
 

@@ -22,7 +22,7 @@ from pathlib import Path
 SKILL_ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_POOL = SKILL_ROOT / "data" / "app_pool.json"
 LOOKUP_ENDPOINT = "https://itunes.apple.com/lookup"
-USER_AGENT = "app-icon-filler/1.0 (+https://itunes.apple.com)"
+USER_AGENT = "skills-store-fetch-icon/1.0 (+https://itunes.apple.com)"
 SIZES = ("256", "512", "1024")
 LOOKUP_CHUNK = 50
 RETRIES = 1

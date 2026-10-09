@@ -1,4 +1,4 @@
-# App Icon Filler（真实应用图标填充）
+# skills-store-fetch-icon（真实应用图标填充）
 
 用真实的应用图标填充设计稿占位：从 Apple 官方接口按真实应用取官方方图，随机抽一批**真实存在**的应用，产出图标文件，并把真实的应用名和一句拟真的描述写进 Figma 槽位的文本层。
 
@@ -7,7 +7,7 @@
 ## 仓库结构
 
     skills/
-      app-icon-filler/
+      skills-store-fetch-icon/
         SKILL.md              技能说明（英文 frontmatter，正文中文）
         scripts/fetch_icons.py 取图脚本（Python 3 标准库）
         data/app_pool.json     精选应用池
@@ -16,9 +16,9 @@
 
 用 skill-installer 从本仓库安装：
 
-    python3 $CODEX_HOME/skills/.system/skill-installer/scripts/install-skill-from-github.py --repo TAI-IPX/skills-store-fetch-icon --path skills/app-icon-filler
+    python3 $CODEX_HOME/skills/.system/skill-installer/scripts/install-skill-from-github.py --repo TAI-IPX/skills-store-fetch-icon --path skills/skills-store-fetch-icon
 
-也可以直接把 skills/app-icon-filler 整个目录拷进 $CODEX_HOME/skills/。安装后技能会在下一轮对话出现在可用列表里。
+也可以直接把 skills/skills-store-fetch-icon 整个目录拷进 $CODEX_HOME/skills/，目录名与技能名一致。安装后技能会在下一轮对话出现在可用列表里。
 
 ## 用法
 
